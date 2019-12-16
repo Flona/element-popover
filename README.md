@@ -1,2 +1,15 @@
-# element-popover
-共享popover，解决性能问题
+﻿# element-popover
+
+# 本地开发
+```shell script
+npm ci
+npm run serve
+```
+
+# 生产构建
+```shell script
+npm ci
+npm run build
+```
+
+
